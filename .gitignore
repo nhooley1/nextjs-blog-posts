@@ -1,2 +1,9 @@
 node_modules
 .env.local
+.next/app-build-manifest.json
+.next/build-manifest.json
+.next/trace
+.next/cache/fetch-cache/tags-manifest.json
+.next/cache/webpack
+.next
+.DS_Store
